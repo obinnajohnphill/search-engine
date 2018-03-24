@@ -1,3 +1,4 @@
+
 # search-engine
 
 
@@ -11,6 +12,7 @@ A simple search database application build on Laravel by Obinna Johnphill.
  2. migrate datatables 
 
  3. seed your database (faker set to 200 data record by default)
+
 
 
 
