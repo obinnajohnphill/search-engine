@@ -2,7 +2,7 @@
 # search-engine
 
 
-A simple search database application build on Laravel by Obinna Johnphill.
+A simple database search application built on the Laravel framework by Obinna Johnphill.
 
 
 #Setup Guide
